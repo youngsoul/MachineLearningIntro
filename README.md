@@ -14,3 +14,7 @@ It is (loosely) recommended that you work through the notebooks in the following
 4. KNN_Tutorial.ipynb
 5. SVM_Tutorial.ipynb
 6. KMeans_Tutorial.ipynb
+
+## Video
+
+https://www.youtube.com/watch?v=-BIGzKmxMGY
